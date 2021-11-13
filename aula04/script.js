@@ -100,7 +100,7 @@ var nao = !true
 console.log(nao)
 */
 
-
+/*
 //como declarar um array
 let array = ['string', 1, true]
 console.log(array)
@@ -141,7 +141,7 @@ console.log(array)
 let novoArray = array.slice(0, 2)
 console.log(novoArray)
 */
-
+/*
 let object = { string: 'string', number: 1, boolean: true, array: ["array"], objectInterno: {objectInterno: 'objectInterno'}}
 console.log(object)
 
@@ -150,6 +150,7 @@ console.log(object)
 var string = object.string
 console.log(string)
 */
-
+/*
 var {string, boolean} = object
 console.log(string, boolean)
+*/
